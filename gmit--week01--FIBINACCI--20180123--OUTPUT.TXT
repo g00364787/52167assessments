@@ -1,0 +1,11 @@
+# WEEK 01
+#
+# filename= gmit--week01--FIBINACCI--20180123.py
+#
+# STUDENT ID= g00364787
+#
+# FINONACCI NUBMERS
+
+Your name:PAUL
+The two letters to operate on are:  P ( 16 ) and  L ( 12 )
+My name is PAUL, so the first and last letter of my name (P + L = 16 + 12) give the number 28.  The 28th Fibonacci number is 317811.
