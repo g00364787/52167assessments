@@ -1,0 +1,77 @@
+# The number  119911 is a palindrome.
+# The number  121121 is a palindrome.
+# The number  131131 is a palindrome.
+# The number  141141 is a palindrome.
+# The number  143341 is a palindrome.
+# The number  165561 is a palindrome.
+# The number  168861 is a palindrome.
+# The number  174471 is a palindrome.
+# The number  180081 is a palindrome.
+# The number  189981 is a palindrome.
+# The number  204402 is a palindrome.
+# The number  210012 is a palindrome.
+# The number  219912 is a palindrome.
+# The number  222222 is a palindrome.
+# The number  227722 is a palindrome.
+# The number  238832 is a palindrome.
+# The number  255552 is a palindrome.
+# The number  270072 is a palindrome.
+# The number  272272 is a palindrome.
+# The number  282282 is a palindrome.
+# The number  292292 is a palindrome.
+# The number  299992 is a palindrome.
+# The number  302203 is a palindrome.
+# The number  329923 is a palindrome.
+# The number  348843 is a palindrome.
+# The number  378873 is a palindrome.
+# The number  408804 is a palindrome.
+# The number  414414 is a palindrome.
+# The number  428824 is a palindrome.
+# The number  436634 is a palindrome.
+# The number  443344 is a palindrome.
+# The number  444444 is a palindrome.
+# The number  469964 is a palindrome.
+# The number  485584 is a palindrome.
+# The number  487784 is a palindrome.
+# The number  489984 is a palindrome.
+# The number  514415 is a palindrome.
+# The number  525525 is a palindrome.
+# The number  531135 is a palindrome.
+# The number  543345 is a palindrome.
+# The number  580085 is a palindrome.
+# The number  592295 is a palindrome.
+# The number  601106 is a palindrome.
+# The number  616616 is a palindrome.
+# The number  623326 is a palindrome.
+# The number  631136 is a palindrome.
+# The number  650056 is a palindrome.
+# The number  653356 is a palindrome.
+# The number  666666 is a palindrome.
+# The number  698896 is a palindrome.
+# The number  723327 is a palindrome.
+# The number  729927 is a palindrome.
+# The number  770077 is a palindrome.
+# The number  804408 is a palindrome.
+# The number  807708 is a palindrome.
+# The number  828828 is a palindrome.
+# The number  853358 is a palindrome.
+# The number  855558 is a palindrome.
+# The number  906609 is a palindrome.
+# The result of calculations:
+# The largest palindrome of two 3 digit numbers is: 913 x 993 = 906609
+
+
+
+
+#
+# text screen grab from https://projecteuler.net/problem=4
+#
+# Congratulations, the answer you gave to problem 4 is correct.
+#
+# You are the 375995th person to have solved this problem.
+# 
+# This problem had a difficulty rating of 5%. The highest difficulty rating you had previously solved was 0%.
+# This is a new record. Well done!
+# 
+# Return to Problems page.
+
