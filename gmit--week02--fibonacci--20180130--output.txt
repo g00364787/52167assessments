@@ -1,4 +1,0 @@
-My surname is KEARNEY
-The first letter K is number 75
-The last letter Y is number 89
-Fibonacci number 164 is 8404037832974134882743767626780173
