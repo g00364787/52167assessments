@@ -30,6 +30,8 @@ with any insight you have as to what ord() does, to the discussions forum.
 ### OUTPUT FROM SCRIPT/CODE
 	gmit--exercise02--fibonacci--20180130--output.txt	
 	
+## EXERCISE01 & EXERCISE02
+This is an amalgamation of Exercise01 & Exercise02
 	
 ### SCRIPT/CODE FOR EXERCISE01 & 02
 	gmit--exercise01--and--exercise02--code.py	
