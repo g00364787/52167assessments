@@ -1,7 +1,6 @@
 # 52167assessments
 
-These PYTHON files were written using SPYDER 3.2.4.
-SPYDER is part of the ANAOCONDA 5.01 package (Anaconda3-5.0.1-Windows-x86_64).
+These PYTHON files were written using SPYDER 3.2.4.  SPYDER is part of the ANAOCONDA 5.01 package (Anaconda3-5.0.1-Windows-x86_64).  
 It uses PYTHON 3.6.3 64bits, Qt 5.6.2, PyQt5 5.6 for Windows.
 
 ## EXERCISE 01
