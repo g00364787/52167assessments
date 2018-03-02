@@ -13,9 +13,9 @@ Take A as the number 1, B as 2, C as 3, and so on.
 For example, my name is Ian, so I should calculate the 25th Fibonacci number 
 because I is 9 and n is 14, giving 25 in total.
 
-### SCRIPT/CODE
+#### SCRIPT/CODE
 	gmit--exercise01--fibonacci--20180123.py
-### SCRIPT/CODE AND OUTPUT
+#### SCRIPT/CODE AND OUTPUT
 	gmit--exercise01--fibonacci--20180123--output.txt
 
 ## EXERCISE02
@@ -25,19 +25,19 @@ to contain your own surname, and rerun it. Can you figure out what ord()
 does? Try to Google it to find out. Post the output of the program, along
 with any insight you have as to what ord() does, to the discussions forum.
 
-### SCRIPT/CODE	
+#### SCRIPT/CODE	
 	gmit--exercise02--fibonacci--20180130.py
-### OUTPUT FROM SCRIPT/CODE
+#### OUTPUT FROM SCRIPT/CODE
 	gmit--exercise02--fibonacci--20180130--output.txt	
 	
 ## EXERCISE01 & EXERCISE02
 This is an amalgamation of Exercise01 & Exercise02
 	
-### SCRIPT/CODE FOR EXERCISE01 & 02
+#### SCRIPT/CODE FOR EXERCISE01 & 02
 	gmit--exercise01--and--exercise02--code.py	
-### SCRIPT/CODE AND OUTPUT FOR EXERCISE01 & 02
+#### SCRIPT/CODE AND OUTPUT FOR EXERCISE01 & 02
 	gmit--exercise01--and--exercise02--code--and-output.py
-### OUTPUT FROM EXERCISE01 & 02
+#### OUTPUT FROM EXERCISE01 & 02
 	gmit--exercise01--and--exercise02--output.txt
 	
 ## EXERCISE03
@@ -51,11 +51,11 @@ You can specify in your code the starting value of 17. If you wish to enhance
 your program, have the program ask the user for the integer instead of 
 specifying a value at the start of your code.
 
-### SCRIPT/CODE	
+#### SCRIPT/CODE	
 	gmit--exercise03--collatz--code--20180205d.py
-## SCRIPT/CODE AND OUTPUT IN ONE FILE
+#### SCRIPT/CODE AND OUTPUT IN ONE FILE
 	gmit--exercise03--collatz--code-and-output--20180205d.py
-### OUTPUT FROM SCRIPT/CODE
+#### OUTPUT FROM SCRIPT/CODE
 	gmit--exercise03--collatz--output--20180205d.txt
 	
 ## EXERCISE04
@@ -65,22 +65,22 @@ By starting with 1 and 2, the first 10 terms will be:
 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
 
-### SCRIPT/CODE
+#### SCRIPT/CODE
     gmit--exercise04--problem02--fibonacci-even-values-under-4million--code--20180224.py
-### SCRIPT/CODE IN ONE FILE
+#### SCRIPT/CODE IN ONE FILE
 	gmit--exercise04--problem02--fibonacci-even-values-under-4million--code-and-output--20180224.py
-### OUTPUT FROM SCRIPT/CODE
+#### OUTPUT FROM SCRIPT/CODE
 	gmit--exercise04--problem02--fibonacci-even-values-under-4million--output--20180224.txt
 
 ## PROJECT EULER - Problem 4
 A palindromic number reads the same both ways. The largest palindrome made from 
 the product of two 2-digit numbers is 9009 = 91 × 99.
 Find the largest palindrome made from the product of two 3-digit numbers.
-###  SCRIPT/CODE 
+####  SCRIPT/CODE 
 	gmit--exercise04--problem04--largest-palindrome--code--20180224.py
-###  SCRIPT/CODE AND OUTPUT IN ONE FILE
+####  SCRIPT/CODE AND OUTPUT IN ONE FILE
 	gmit--exercise04--problem04--largest-palindrome--code-and-output--20180224.py
-### OUTPUT FROM SCRIPT/CODE	
+#### OUTPUT FROM SCRIPT/CODE	
 	gmit--exercise04--problem04--largest-palindrome--output--20180224.txt
 	
 
@@ -91,11 +91,11 @@ without any remainder. Write a Python program using for and range to
 calculate the smallest positive number that is evenly divisible by all 
 of the numbers from 1 to 20.  I disagree with the 'official' answer.
 
-### SCRIPT/CODE 
+#### SCRIPT/CODE 
 	gmit--exercise04--problem05--Smallest multiple--code--20180224.py
-### SCRIPT/CODE AND OUTPUT IN ONE FILE
+#### SCRIPT/CODE AND OUTPUT IN ONE FILE
 	gmit--exercise04--problem05--Smallest multiple--code-and-output--20180224.py
-### OUTPUT FROM SCRIPT/CODE	
+#### OUTPUT FROM SCRIPT/CODE	
 	gmit--exercise04--problem05--Smallest multiple--output--20180224.txt
 
 
@@ -105,12 +105,12 @@ values on each row in a nice format. That is, on the screen should be printed
 the petal length, petal width, sepal length and sepal width, and these values
 should have the decimal places aligned, with a space between the columns.
  
-### SCRIPT/CODE
+#### SCRIPT/CODE
 	gmit--exercise05--reading-csv-file--code--20180303a.py
-### SCRIPT/CODE AND OUTPUT IN ONE FILE
+#### SCRIPT/CODE AND OUTPUT IN ONE FILE
     gmit--exercise05--reading-csv-file--code-and--output--20180303a.py
-### OUTPUT FROM SCRIPT/CODE	
+#### OUTPUT FROM SCRIPT/CODE	
 	gmit--exercise05--reading-csv-file--output--20180303a.txt	
-### INPUT FILE
+#### INPUT FILE
     iris.csv
 
