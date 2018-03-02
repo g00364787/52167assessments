@@ -1,0 +1,25 @@
+#
+# filename= gmit--exercise03--collatz--20180205d.py
+# STUDENT ID = G00364787
+# EXERCISE 03
+#
+# the  Collatz conjecture
+
+
+
+The COLLATZ CONJECTURE
+
+A start nummber: 12
+--Start of sequence.
+12
+6
+3
+10
+5
+16
+8
+4
+2
+1
+--End of sequence
+

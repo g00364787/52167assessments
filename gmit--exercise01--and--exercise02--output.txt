@@ -1,0 +1,23 @@
+
+My name is paul, so the first and last letter of my name (P + L = 16 + 12) give the number 28.  The 28th Fibonacci number is 317811.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+Re: Week 2 task
+by PAUL KEARNEY - Monday, 29 January 2018, 9:33 PM
+
+The  ord()  function  returns a number which is the equivalent of the input character given to it. 
+It is the equivalent to the BASIC function ASC(x) where the the returned number is the ASCII equivalent of the input character 'x' .
+e.g  ord(x) where x is the character 'A' will return 65  or where x is the character 'Z' will return the number 90.
+
+My surname is Kearney
+The first letter K is number 75
+The last letter y is number 121
+Fibonacci number 196 is 40934782466626840596168752972961528246147
