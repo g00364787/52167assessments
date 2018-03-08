@@ -113,3 +113,15 @@ should have the decimal places aligned, with a space between the columns.
 #### INPUT FILE
     iris.csv
 
+
+## EXERCISE06
+Write a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial.  The factorial of a number is that number multiplied by all of the positive numbers less than it.  For example, the factorial of 5 is 5x4x3x2x1 which equals 120. You should, in your script, test the function by calling it with 
+the values 5, 7, and 10.
+ 
+#### SCRIPT/CODE
+	gmit--exercise06--factorial--20180308a.py
+#### SCRIPT/CODE AND OUTPUT IN ONE FILE
+    gmit--exercise06--factorial--code-and-output--20180308a.py
+#### OUTPUT FROM SCRIPT/CODE	
+	gmit--exercise06--factorial--output--20180308a.txt
+
